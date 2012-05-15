@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<list>
+	<description>This is a channel list for inserting into the Android App Schoener Fernsehen</description>
+	<url>http://www.schoener-fernsehen.com</url>
+	<android>https://play.google.com/store/apps/details?id=com.onlinetvrecorder.SchoenerFernsehen2</android>
+	<date>2012-05-14 16:54:22</date>
+	<timestamp>1337007262</timestamp>
+	<channels>
+		<channel>
+			<name>RTL</name>
+			<url>http://peer-stream.com/api/get_manifest.f4m?groupspec=G:0101010c040e72746c00</url>
+		</channel>
+			
+		<channel>
+			<name>RTL2</name>
+			<url>http://peer-stream.com/api/get_manifest.f4m?groupspec=G:0101010c060e72746c203200</url>
+		</channel>
+			
+		<channel>
+			<name>SRTL</name>
+			<url>http://peer-stream.com/api/get_manifest.f4m?groupspec=G:0101010c0a0e73757065722072746c00</url>
+		</channel>
+			
+		<channel>
+			<name>VOX</name>
+			<url>http://peer-stream.com/api/get_manifest.f4m?groupspec=G:0101010c040e766f7800</url>
+		</channel>
+			
+		<channel>
+			<name>NTV</name>
+			<url>http://peer-stream.com/api/get_manifest.f4m?groupspec=G:0101010c050e6e2d747600</url>
+		</channel>
+			
+	</channels>
+</list>
